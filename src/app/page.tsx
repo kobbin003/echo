@@ -9,6 +9,7 @@ export default async function page() {
 		<main>
 			<Hello />
 			<AuthCheck />
+			<p>checking on deployment</p>
 		</main>
 	);
 }
